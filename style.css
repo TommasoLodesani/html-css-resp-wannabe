@@ -1,3 +1,4 @@
+
 .row {
   width: 992px;
   margin-left: auto;
@@ -24,7 +25,7 @@
 }
 
 
-}
+
 
 /* BLOCCO STEPS */
 #steps .row>.left,
@@ -86,6 +87,8 @@ img {
 
   .row{
     width: 100%;
+    margin-top: 0px;
+    
   }
 
   #lezioni .row>.left,
@@ -95,5 +98,4 @@ img {
   #steps .row>.right {
     
     width: 100%;
-  
   }

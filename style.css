@@ -80,7 +80,7 @@ img {
 
 @media screen and (max-width:420px) {
 
-  #lezioni{
+  #lezioni, #why{
     background-color: #f2f2cd;
   
   }
@@ -88,7 +88,7 @@ img {
   .row{
     width: 100%;
     margin-top: 0px;
-    
+
   }
 
   #lezioni .row>.left,
@@ -99,3 +99,4 @@ img {
     
     width: 100%;
   }
+}
